@@ -1,0 +1,18 @@
+.background-img{
+	background: url("../img/cinemagraph.gif") repeat-y 100% 100% fixed;
+	background-size: cover;
+	height: 80vh;
+}
+
+h1{
+	text-align: center;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(font1.woff2);
+}
